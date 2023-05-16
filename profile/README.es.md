@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href=" https://discord.gg/aWDv3TUYdX">Discord</a>
+  <a href="https://discord.gg/aWDv3TUYdX">Discord</a>
   ·
   <a href="http://Galactic-Shrine.com">Sitio</a>
   ·
