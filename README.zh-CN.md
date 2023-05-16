@@ -1,4 +1,4 @@
-<h1 align="center">Bienvenue dans la communauté <a href="https://Galactic-Shrine.com/">Galactic-Shrine</a> !</h1><br>
+<h1 align="center">Welcome to the <a href="https://Galactic-Shrine.com/">Galactic-Shrine</a> community!</h1><br>
 
 <p align="center">
   <a href="https:/Galactic-Shrine.com/">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Galactic-Shrine est un groupe de joueurs qui créent un studio de développement de jeux. 
+  Galactic-Shrine is a group of players who create a game development studio.
 </p>
 
 <p align="center">
