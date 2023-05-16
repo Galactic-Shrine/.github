@@ -1,4 +1,4 @@
-<h1 align="center">欢迎来到<a href="https://Galactic-Shrine.com/">Galactic-Shrine>社区!</h1><br>
+<h1 align="center">欢迎来到<a href="https://Galactic-Shrine.com/">Galactic-Shrine</a>社区!</h1><br>
 
 <p align="center">
   <a href="https:/Galactic-Shrine.com/">
