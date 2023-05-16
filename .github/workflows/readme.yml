@@ -23,11 +23,11 @@ jobs:
         uses: dephraiim/translate-readme@main
         with:
           LANG: zh-TW
-      - name: Adding README - Español
+      - name: Adding README - Spanish
         uses: dephraiim/translate-readme@main
         with:
           LANG: es
-      - name: Adding README - French
+      - name: Adding README - English
         uses: dephraiim/translate-readme@main
         with:
-          LANG: fr
+          LANG: en
