@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Galactic-Shrine est un groupe de joueurs qui créent un studio de développement de jeux. 
+  Galactic-Shrine est un groupe de joueurs français qui créent un studio de développement de jeux. 
 </p>
 
 <p align="center">
