@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href=" https://discord.gg/aWDv3TUYdX">讨论区</a>
+  <a href="https://discord.gg/aWDv3TUYdX">讨论区</a>
   ·
   <a href="http://Galactic-Shrine.com">网站</a>
   ·
