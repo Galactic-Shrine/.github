@@ -16,6 +16,6 @@ jobs:
           node-version: 12.x
       # ISO Langusge Codes: https://cloud.google.com/translate/docs/languages  
       - name: Adding README - French
-        uses: Galactic-Shrine/.github@main
+        uses: dephraiim/translate-readme@v1
         with:
           LANG: fr
