@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https:/Galactic-Shrine.com/">
-    <img src="http://stargate.galactique.free.fr/LogosGs/0.1.1.png" alt="Galactic-Shrine logo" width="700" height="150">
+    <img src="http://stargate.galactique.free.fr/LogosGs/1.3.1.png" alt="Galactic-Shrine logo" width="700" height="150">
   </a>
 </p>
 
