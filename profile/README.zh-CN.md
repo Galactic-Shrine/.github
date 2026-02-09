@@ -1,8 +1,8 @@
-<h1 align="center">欢迎来到<a href="https://Galactic-Shrine.com/">Galactic-Shrine</a>社区!</h1><br>
+<h1 align="center">欢迎来到<a href="https://Galactic-Shrine.com/">⋞Galactic-Shrine⋟</a>社区!</h1><br>
 
 <p align="center">
   <a href="https:/Galactic-Shrine.com/">
-    <img src="http://stargate.galactique.free.fr/LogosGs/1.3.1.png" alt="Galactic-Shrine logo" width="700" height="150">
+    <img src="http://stargate.galactique.free.fr/Galactic-Shrine/Logos/1.3.1.png" alt="Galactic-Shrine logo" width="700" height="150">
   </a>
 </p>
 
