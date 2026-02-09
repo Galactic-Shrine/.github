@@ -1,8 +1,8 @@
-<h1 align="center">Bienvenue dans la communauté <a href="https://Galactic-Shrine.com/">Galactic-Shrine</a> !</h1><br>
+<h1 align="center">Bienvenue dans la communauté <a href="https://Galactic-Shrine.com/">⋞Galactic-Shrine⋟</a> !</h1><br>
 
 <p align="center">
   <a href="https:/Galactic-Shrine.com/">
-    <img src="http://stargate.galactique.free.fr/LogosGs/1.3.1.png" alt="Galactic-Shrine logo" width="700" height="150">
+    <img src="http://stargate.galactique.free.fr/Galactic-Shrine/Logos/1.3.1.png" alt="Galactic-Shrine logo" width="700" height="150">
   </a>
 </p>
 
@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://discord.gg/aWDv3TUYdX">Discord</a>
   ·
-  <a href="http://Galactic-Shrine.com">Site</a>
+  <a href="http://Galactic-Shrine.com">Site (Construction)</a>
   ·
   <a href="https://www.facebook.com/Galactic.Shrine/">Facebook</a>
   ·
