@@ -2,20 +2,32 @@
 
 <p align="center">
   <a href="https:/Galactic-Shrine.com/">
-    <img src="http://stargate.galactique.free.fr/Galactic-Shrine/Logos/1.3.1.png" alt="Galactic-Shrine logo" width="700" height="150">
+    <img src="http://stargate.galactique.free.fr/Galactic-Shrine/Logos/0.3.1.png" alt="Galactic-Shrine logo" width="700" height="150">
   </a>
 </p>
 
 <p align="center">
-  Galactic-Shrine es un grupo de gamers franceses que crean un estudio de desarrollo de juegos.
+  ⋞Galactic-Shrine⋟ es un grupo de gamers franceses que crean un estudio de desarrollo de juegos.
 </p>
 
+---
+
+## Traducción
+
+[en](README.en.md) · [fr](README.md) · [zh-CN](README.zh-CN.md)
+
+## Enlaces
+
 <p align="center">
-  <a href="https://discord.gg/aWDv3TUYdX">Discord</a>
+  <a href="http://Galactic-Shrine.com">Sitio (Construcción)</a>
   ·
-  <a href="http://Galactic-Shrine.com">Sitio</a>
+  <a href="https://discord.gg/aWDv3TUYdX">Discord</a>
   ·
   <a href="https://www.facebook.com/Galactic.Shrine/">Facebook</a>
   ·
   <a href="https://www.youtube.com/@Galactic-Shrine">Youtube</a>
+  ·
+  <a href="https://www.reddit.com/r/GalacticShrine/">Reddit</a>
 </p>
+
+---
