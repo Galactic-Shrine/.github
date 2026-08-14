@@ -31,3 +31,15 @@
 </p>
 
 ---
+
+## Membre liste
+### Fondateur
+[GsKizuna](https://github.com/GsKizuna)
+### Co-Fondateur
+[macos128](https://github.com/macos128)
+### Développer
+[GsKizuna](https://github.com/GsKizuna) · 
+[LutiinBlack](https://github.com/LutiinBlack)
+### Modéliste
+[GsKizuna](https://github.com/GsKizuna) · 
+[LutiinBlack](https://github.com/LutiinBlack)
