@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  ⋞Galactic-Shrine⋟是一个由法国游戏玩家组成的团体，创建了一个游戏开发工作室。
+  ⋞Galactic-Shrine⋟ 是一家电子游戏开发工作室。
 </p>
 
 ---
