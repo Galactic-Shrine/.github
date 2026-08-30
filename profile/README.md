@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  La ⋞Galactic-Shrine⋟ est un groupe de joueurs français qui créent un studio de développement de jeux.
+  La ⋞Galactic-Shrine⋟ est un studio de développement de jeux.
 </p>
 
 ---
