@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  ⋞Galactic-Shrine⋟ es un grupo de gamers franceses que crean un estudio de desarrollo de juegos.
+  ⋞Galactic-Shrine⋟ es un estudio de desarrollo de videojuegos.
 </p>
 
 ---
